@@ -1,2 +1,9 @@
 
 *.pyc
+
+# Ignore Python Virtual environment files 
+venv
+.vscode
+
+# Ignore files
+desktop.ini
